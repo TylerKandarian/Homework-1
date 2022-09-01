@@ -6,7 +6,7 @@ This website had a few bugs users reported. I got a ticket to go and find isuues
 
 ## Installation
 
-Once I recieved the on the job ticket I used teh git pull command to download the files needed to my computer. While I was working on the site I frequently used git commits and pushes to update the repositry and make sure the website was up to date.
+Once I recieved the on the job ticket I used the git pull command to download the files needed to my computer. While I was working on the site I frequently used git commits and pushes to update the repositry and make sure the website was up to date.
 
 ## Usage
 
